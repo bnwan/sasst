@@ -1,0 +1,4 @@
+node_modules/
+.jsbeautifyrc
+test.bundle.js
+npm-debug.log

@@ -1,0 +1,17 @@
+{
+  "name": "sasst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Nwaneampeh",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^8.1.3",
+    "event-stream": "^3.2.2",
+    "node-sass": "^2.0.1",
+    "sass-stream": "^0.1.8"
+  }
+}

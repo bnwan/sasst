@@ -1,0 +1,15 @@
+{
+	"esnext": false,
+	"moz": true,
+	"boss": true,
+	"node": true,
+	"validthis": true,
+	"globals": {
+		"describe": true,
+		"it": true,
+		"before": true,
+		"after": true,
+		"beforeEach": true,
+		"afterEach": true
+	}
+}
